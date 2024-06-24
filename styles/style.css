@@ -2,10 +2,11 @@
 
 
 :root {
-    --color-primaria: #000000;
-    --color-secundaria: #F6F6F6;
-    --color-terciaria: #22D4FD;
-    --color-hover: #272727;
+     --color-primaria: #059212;
+    --color-secundaria: #06D001;
+    --color-terciaria: #9BEC00;
+    --color-hover: #F3FF90;
+
 
     --fuente-krona: 'Krona One', sans-serif;
     --fuente-montserrat: 'Montserrat', sans-serif;
